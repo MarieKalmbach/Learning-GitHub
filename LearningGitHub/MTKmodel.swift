@@ -9,5 +9,5 @@ import Foundation
 
 struct MTKmodel
 {
-    var name: String?
+    var name: String = "Marie"
 }
